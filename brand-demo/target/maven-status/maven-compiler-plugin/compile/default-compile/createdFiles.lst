@@ -1,0 +1,16 @@
+com\itlxl\web\listener\ContextLoaderListener.class
+com\itlxl\web\RegisterServlet.class
+com\itlxl\service\BrandService.class
+com\itlxl\pojo\Brand.class
+com\itlxl\web\filter\LoginFilter.class
+com\itlxl\mapper\UserMapper.class
+com\itlxl\service\UserService.class
+com\itlxl\mapper\BrandMapper.class
+com\itlxl\web\UpdateServlet.class
+com\itlxl\web\SelectByIdServlet.class
+com\itlxl\util\SqlSessionFactoryUtils.class
+com\itlxl\web\DeleteServlet.class
+com\itlxl\web\SelectAllServlet.class
+com\itlxl\web\LoginServlet.class
+com\itlxl\pojo\User.class
+com\itlxl\web\AddServlet.class
